@@ -1190,7 +1190,7 @@ footer .contact-container{
 }
 .wrapper {
   display: inline-flex;
-  gap: 71px;
+  gap: 21px;
   justify-content: space-around;
   list-style: none;
 }
